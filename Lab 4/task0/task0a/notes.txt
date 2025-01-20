@@ -1,0 +1,13 @@
+Where is the entry point specified, and what is its value?
+
+    Entry point address:
+    readelf -h abc
+    
+    = 0x80483b0
+
+How many sections are there in "abc"?
+
+    Number of section headers:
+    readelf -h --sections <filename>
+
+    = 29

@@ -1,0 +1,20 @@
+Entry point address:
+    readelf -h <filename>
+
+Number of section headers:
+    readelf -h --sections <filename>
+
+Size of .text:
+    readelf --sections <filename>
+
+_end:
+    readelf -s <filename> | grep _end
+
+.rodata:
+    readelf -s <filename> | grep .rodata
+
+main (Value = address):
+    readelf -s <filename> | grep main
+
+section virtual address:
+    readelf -S <file_name>

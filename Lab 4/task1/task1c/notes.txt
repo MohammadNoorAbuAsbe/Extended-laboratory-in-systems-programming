@@ -1,0 +1,3 @@
+Note that, depending on the chosen unit size, the printed hexadecimal values may differ in order when compared with the output of hexedit. Why is that?
+
+    endian, assumes bassed on unit size in buffer

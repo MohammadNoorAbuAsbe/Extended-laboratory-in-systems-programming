@@ -1,0 +1,225 @@
+./hexeditplus
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+1
+
+Within bounds
+Enter new file name:
+deep_thought
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+3
+
+Within bounds
+Please enter <location> <length>
+0 1
+
+Loaded 1 units into memory
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+3
+
+Within bounds
+Please enter <location> <length>
+804816c 1
+
+Loaded 1 units into memory
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+7
+
+Within bounds
+Please enter <location> <val>
+0 08048156
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+6
+
+Within bounds
+Please enter <source-address> <target-location> <length>
+0 18 1
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+8
+
+Within bounds
+quitting...
+abuasbe@wincs.cs.bgu.ac.il-cs302six2-1-lnx [11:11]~/Downloads/Lab 4/task2>./deep_thought
+Answer to Life, the Universe, and Everything
+42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+./hexeditplus
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+1
+
+
+Within bounds
+Enter new file name:
+task4
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+3
+
+Within bounds
+Please enter <location> <length>
+52d 80
+
+Loaded 80 units into memory
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+1
+
+Within bounds
+Enter new file name:
+ntsc
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+6
+
+Within bounds
+Please enter <source-address> <target-location> <length>
+0 577 97
+
+DONE.
+
+Choose action:
+0)  Toggle Debug Mode
+1)  Set File Name
+2)  Set Unit Size
+3)  Load Into Memory
+4)  Toggle Display Mode
+5)  Memory Display
+6)  Save Into File
+7)  Memory Modify
+8)  Quit
+8
+
+Within bounds
+quitting...
+
+
+
+
+
+
+

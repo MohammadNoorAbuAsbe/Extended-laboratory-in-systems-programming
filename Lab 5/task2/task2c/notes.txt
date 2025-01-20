@@ -1,0 +1,12 @@
+readelf -h loader:
+Entry point address
+readelf -s loader:
+04048810     0 NOTYPE  GLOBAL DEFAULT   10 _start
+00000000     0 FILE    LOCAL  DEFAULT  ABS start.s
+
+Type:                              EXEC (Executable file)
+
+
+
+
+we need the linker for asemmbly <-----> c code
